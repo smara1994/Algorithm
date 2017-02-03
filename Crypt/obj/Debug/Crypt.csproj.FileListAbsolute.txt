@@ -1,0 +1,6 @@
+E:\Projects\Projects\TestProjects\trunk\Sources\Crypt\Crypt\bin\Debug\Crypt.exe.config
+E:\Projects\Projects\TestProjects\trunk\Sources\Crypt\Crypt\obj\Debug\Crypt.csprojResolveAssemblyReference.cache
+E:\Projects\Projects\TestProjects\trunk\Sources\Crypt\Crypt\bin\Debug\Crypt.exe
+E:\Projects\Projects\TestProjects\trunk\Sources\Crypt\Crypt\bin\Debug\Crypt.pdb
+E:\Projects\Projects\TestProjects\trunk\Sources\Crypt\Crypt\obj\Debug\Crypt.exe
+E:\Projects\Projects\TestProjects\trunk\Sources\Crypt\Crypt\obj\Debug\Crypt.pdb
